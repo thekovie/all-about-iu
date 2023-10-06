@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500;600;700;800;900&family=Young+Serif&display=swap');
+
+
+body {
+    font-family: 'Gabarito', serif;
+    color: #9878B7;
+}
+
+.title {
+    font-family: 'Young Serif', serif;
+}
+
